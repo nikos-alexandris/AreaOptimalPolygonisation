@@ -19,7 +19,10 @@ This is a project to implement, test and evaluate different local and global opt
   - Global Step
   - Subdivision
 
-## Build and Run instructions
+## Evaluation
+
+x axis: number of vertices  
+y axis: score
 
 - Minimization (the goal is to minimize y)
   ![](assets/min_score.png)
@@ -29,7 +32,7 @@ This is a project to implement, test and evaluate different local and global opt
   ![](assets/max_score.png)
   ![](assets/max_bound.png)
 
-## Build instructions
+## Build and Run instructions
 
 ### Dependencies
 
