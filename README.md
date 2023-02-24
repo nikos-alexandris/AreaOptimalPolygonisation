@@ -1,6 +1,6 @@
 # Area Optimal Polygonisation
 
-This is a project to test and evaluate different local and global optimisation algorithms for solving the area optimal polygonisation problem, using the [CGAL](https://www.cgal.org/) library.
+This is a project to implement, test and evaluate different local and global optimisation algorithms for solving the area optimal polygonisation problem, using the [CGAL](https://www.cgal.org/) library.
 
 **This software was written collaboratively by [Nikos Alexandris](https://github.com/nikos-alexandris) and [Panagiotis Iatrou](https://github.com/PanagiotisIatrou)**.
 
